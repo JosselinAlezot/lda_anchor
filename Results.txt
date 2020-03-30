@@ -1,0 +1,96 @@
+
+Résultats LDA entrainé sur les deux classes pour 5 topics
+
+Logistic Regression Val f1: 0.435 +- 0.080
+Logisitic Regression SGD Val f1: 0.457 +- 0.134
+SVM Huber Val f1: 0.027 +- 0.055
+
+Résultats LDA entrainé sur la classe 0 pour 5 topics
+
+Logistic Regression Val f1: 0.476 +- 0.081
+Logisitic Regression SGD Val f1: 0.340 +- 0.154
+SVM Huber Val f1: 0.082 +- 0.113
+
+Résultats LDA entrainé sur les deux classes pour 10 topics
+
+Logistic Regression Val f1: 0.612 +- 0.119
+Logisitic Regression SGD Val f1: 0.569 +- 0.087
+SVM Huber Val f1: 0.341 +- 0.240
+
+Résultats LDA entrainé sur la classe 0 pour 10 topics
+
+Logistic Regression Val f1: 0.490 +- 0.084
+Logisitic Regression SGD Val f1: 0.382 +- 0.059
+SVM Huber Val f1: 0.185 +- 0.176
+
+Résultats LDA entrainé sur les deux classes pour 15 topics
+
+Logistic Regression Val f1: 0.601 +- 0.088
+Logisitic Regression SGD Val f1: 0.450 +- 0.104
+SVM Huber Val f1: 0.290 +- 0.151
+
+Résultats LDA entrainé sur la classe 0 pour 15 topics
+
+Logistic Regression Val f1: 0.432 +- 0.036
+Logisitic Regression SGD Val f1: 0.292 +- 0.063
+SVM Huber Val f1: 0.037 +- 0.075
+
+Résultats LDA entrainé sur les deux classes pour 20 topics
+
+Logistic Regression Val f1: 0.581 +- 0.084
+Logisitic Regression SGD Val f1: 0.420 +- 0.047
+SVM Huber Val f1: 0.221 +- 0.126
+
+Résultats LDA entrainé sur la classe 0 pour 20 topics
+
+Logistic Regression Val f1: 0.459 +- 0.097
+Logisitic Regression SGD Val f1: 0.412 +- 0.077
+SVM Huber Val f1: 0.080 +- 0.160
+
+Résultats LDA entrainé sur les deux classes pour 25 topics
+
+Logistic Regression Val f1: 0.492 +- 0.081
+Logisitic Regression SGD Val f1: 0.406 +- 0.077
+SVM Huber Val f1: 0.345 +- 0.122
+
+Résultats LDA entrainé sur la classe 0 pour 25 topics
+
+Logistic Regression Val f1: 0.470 +- 0.063
+Logisitic Regression SGD Val f1: 0.334 +- 0.059
+SVM Huber Val f1: 0.182 +- 0.203
+
+Résultats LDA entrainé sur les deux classes pour 30 topics
+
+Logistic Regression Val f1: 0.474 +- 0.047
+Logisitic Regression SGD Val f1: 0.394 +- 0.062
+SVM Huber Val f1: 0.408 +- 0.134
+
+Résultats LDA entrainé sur la classe 0 pour 30 topics
+
+Logistic Regression Val f1: 0.489 +- 0.101
+Logisitic Regression SGD Val f1: 0.457 +- 0.101
+SVM Huber Val f1: 0.318 +- 0.189
+
+Résultats LDA entrainé sur les deux classes pour 35 topics
+
+Logistic Regression Val f1: 0.544 +- 0.102
+Logisitic Regression SGD Val f1: 0.451 +- 0.124
+SVM Huber Val f1: 0.367 +- 0.201
+
+Résultats LDA entrainé sur la classe 0 pour 35 topics
+
+Logistic Regression Val f1: 0.343 +- 0.065
+Logisitic Regression SGD Val f1: 0.315 +- 0.062
+SVM Huber Val f1: 0.148 +- 0.121
+
+Résultats LDA entrainé sur les deux classes pour 40 topics
+
+Logistic Regression Val f1: 0.526 +- 0.149
+Logisitic Regression SGD Val f1: 0.443 +- 0.113
+SVM Huber Val f1: 0.255 +- 0.171
+
+Résultats LDA entrainé sur la classe 0 pour 40 topics
+
+Logistic Regression Val f1: 0.376 +- 0.064
+Logisitic Regression SGD Val f1: 0.391 +- 0.082
+SVM Huber Val f1: 0.086 +- 0.108
